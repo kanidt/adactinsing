@@ -145,6 +145,9 @@ public class BaseClass1 {
 
 	public  void clickbutton(WebElement searchbox) {
 		searchbox.click();
+		System.out.println("QA is work");
+		System.out.println("QA done work");
+		
 	}
 
 }
